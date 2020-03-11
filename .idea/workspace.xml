@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73c63a37-d99f-4907-b39d-4fafb0063c6d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/day1/StringPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/StringPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/LoopPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +32,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,12 +45,52 @@
       <option name="presentableId" value="Default" />
       <updated>1582999981498</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1583018511042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583018511042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="392" y="88" key="#Project_Structure" timestamp="1583000089731">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1583000089731" />
+    <state x="439" y="18" key="CommitChangelistDialog2" timestamp="1583018509851">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="439" y="18" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583018509851" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1583028155071">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583028155071" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1583028301434">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583028301434" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1583018515146">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583018515146" />
+    <state x="186" y="54" key="new project wizard" timestamp="1583041955566">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="186" y="54" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1583041955566" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1583028203616">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1583028203616" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1583028312565">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583028312565" />
   </component>
 </project>
